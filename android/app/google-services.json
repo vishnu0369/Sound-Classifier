@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764619814356",
+    "project_id": "sound-detection-f4bda",
+    "storage_bucket": "sound-detection-f4bda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764619814356:android:a4b7e5cfbc966a23491241",
+        "android_client_info": {
+          "package_name": "com.example.sound_classifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764619814356-mogieh0lq2kd46ejeiedilrjle2hcrri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCuFTsherDBvmVNXoysjI9JcRrryDBKxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764619814356-mogieh0lq2kd46ejeiedilrjle2hcrri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
